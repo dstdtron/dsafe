@@ -181,7 +181,6 @@ color:rgb(196, 199, 202)
 
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
-    padding: 25px 0;
     color: var(--dark);
     font-size: 15px;
     font-weight: 600;
